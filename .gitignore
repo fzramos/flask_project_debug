@@ -8,3 +8,4 @@ migrations
 /blog_may_env
 test.py
 may_blog/
+debug_project
