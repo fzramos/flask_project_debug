@@ -6,3 +6,5 @@ migrations
 .vscode
 **/__pycache__/**
 /blog_may_env
+test.py
+may_blog/
